@@ -4,4 +4,4 @@ N-Queen Visualizer  An interactive tool to visualize the N-Queen problem, where 
 ![N-Queen-visualisation](visualisation.gif)
 
 **<p align='center'>You can find the website live <a href="https://heyrajveer.github.io/n-queen-algo-visualizer/">here</a></p>**
-Your site is live at 
+
